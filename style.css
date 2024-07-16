@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    border-style: double;
+    border-radius: 100px;
+    
+
+}
+pre{
+    color: white;
+    font-family: 'specimen/Roboto', Times, serif;
+    border-style: dotted;
+    
+}
+#p1{
+
+    color: aquamarine;
+}
+
+#box1{
+    background-color: white;
+box-shadow: 10px 10px;
+
+}
